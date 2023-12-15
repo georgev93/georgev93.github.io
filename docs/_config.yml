@@ -21,7 +21,7 @@
 title: George's Help Pages
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  A way to share knowledge I've gained fumbing my way through technical topics
+  A way to share knowledge I've gained fumbling my way through technical topics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
